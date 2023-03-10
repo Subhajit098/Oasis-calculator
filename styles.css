@@ -1,0 +1,19 @@
+.col-md-6{
+    margin-top: 150px !important;
+}
+
+input[type=button]
+{
+    width: 100%;
+    border-radius: 5px;
+    border-color: none;
+}
+
+input[type=text]
+{
+    width: 100%;
+}
+
+h1{
+    font-weight: bolder !important;
+}
